@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+}
+body{
+background-image: url('images/black-concrete-wall.jpg');    
+}
+#profile{
+    margin-left:500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right:100px;
+    /* padding: 5px 5px 5px 5px; */
+}
+
+#nameinfo{
+    margin-left:500px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right:100px;
+}
+#pp{
+    
+   border: 4px solid black;
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+}
+
+#heading1{
+    margin-left: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(180, 192, 176);
+    
+}
+
+#para{
+    margin-top: -10px;
+    margin-left: 45px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(180, 192, 176);
+    font-style: oblique;
+}
+
+#education{
+    border: 2px solid rgb(180, 192, 176);
+
+}
+
+#list-items{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(180, 192, 176);
+}
